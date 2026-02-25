@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    border-bottom: 1px solid #000;
+}
+
+section {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+h2 {
+    margin-bottom: 15px;
+    border-left: 4px solid #000;
+    padding-left: 10px;
+}
+
+ul {
+    list-style: square;
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid #000;
+    margin-top: 40px;
+}
